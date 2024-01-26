@@ -1,0 +1,12 @@
+package PACJAVA;
+
+public class Hola {
+	public static void main (String []Args) {
+		
+		System.out.println("¨Hola Mundo, o al facinante mundo de JAVA¨");
+	}
+
+	}
+
+
+
